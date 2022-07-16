@@ -7,7 +7,7 @@
 
 <div align="center">
   
-![sssungjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssungjin&theme=swift&show_icons=true)
+![sssungjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssungjin&theme=vue&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssungjin&langs_count=10&layout=compact&theme=dark)](https://github.com/sssungjin/sssungjin)
 </div>
